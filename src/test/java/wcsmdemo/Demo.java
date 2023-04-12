@@ -12,4 +12,8 @@ public class Demo {
 	public void demo2() {
 		System.out.println("this is demo2");
 	}
+	@Test
+	public void demo3() {
+		System.out.println("this is demo3");
+	}
 }
